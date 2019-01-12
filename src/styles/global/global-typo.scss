@@ -1,0 +1,99 @@
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+  
+}
+
+p {
+
+}
+
+b {
+  font-weight: 500;
+}
+
+strong {
+  font-weight: 700;
+}
+
+ul {
+  
+  li {
+    
+  }
+}
+
+ol {
+  
+  li {
+    
+  }
+}
+
+table {
+  
+}
+
+tr {
+  
+}
+
+th {
+  
+}
+
+td {
+  
+}
+
+a {
+  
+}
+
+input {
+  
+  &:focus {
+    outline: none;
+  }
+}
+
+textarea {
+  resize: none;
+  
+  &:focus {
+    outline: none;
+  }
+}
+
+select {
+  
+}
+
+button {
+  cursor: pointer;
+  padding: 0;
+  border: 0;
+  
+  &:focus {
+    outline: none;
+  }
+}
+
+input[type="submit"] {
+  cursor: pointer;
+  border: 0;
+}
+
+img {
+  
+}
